@@ -1,4 +1,4 @@
-package com.game_list.gamelist_backend.entities;
+package com.gamelist.backend.entities;
 
 import java.util.Objects;
 

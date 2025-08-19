@@ -1,4 +1,4 @@
-package com.game_list.gamelist_backend;
+package com.gamelist.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
