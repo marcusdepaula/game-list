@@ -88,10 +88,10 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/marcusdepaula/game-list
 
 # entrar na pasta do projeto back end
-cd backend
+cd gamelist-backend
 
 # executar o projeto
 ./mvnw spring-boot:run
